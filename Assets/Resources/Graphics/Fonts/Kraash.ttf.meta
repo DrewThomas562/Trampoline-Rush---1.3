@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aece75640b622164181f29cc2e9c78d7
+timeCreated: 1487233709
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kraash
+  fontNames:
+  - Kraash
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
